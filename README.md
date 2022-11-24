@@ -1,1 +1,1 @@
-(DEMO)[https://mariianh.github.io/todo-app-on-react/]
+[DEMO](https://mariianh.github.io/todo-app-on-react/)
